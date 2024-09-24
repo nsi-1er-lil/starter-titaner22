@@ -6,11 +6,10 @@ b=(A>5)
 print("A="+str(A)+ "b="+str(b)+"P="+str(P))
 
 
-def perimeter(x):
+def perimetre(x):
     return 4*x
 
-print(perimeter(c))
-
+print(perimetre(c))
 
 def surface(x):
     return x**2
